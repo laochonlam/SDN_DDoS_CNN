@@ -1,0 +1,8 @@
+*.pyc
+*.out
+test*
+training_data
+*log*
+.DS_Store
+n_*
+data
